@@ -17,3 +17,4 @@ for a in saludo:
   
   
 print('this does not work')
+print('Using /usr/bin/bash')
