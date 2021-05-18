@@ -6,3 +6,7 @@ from pprint import pprint
 
 print("Hola!")
 print('Hi')
+
+saludo = "Hola, que tal?"
+
+print(saludo)
