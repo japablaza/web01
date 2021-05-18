@@ -14,3 +14,6 @@ print(saludo[0])
 
 for a in saludo:
   print(f'Letra: {a}')
+  
+  
+print('this does not work')
