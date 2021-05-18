@@ -8,6 +8,7 @@ print("Hola!")
 print('Hi')
 
 saludo = "Hola, que tal?"
+no = 'nada, de nada'
 
 print(saludo)
 print(saludo[0])
