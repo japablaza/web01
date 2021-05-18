@@ -5,3 +5,4 @@ import json
 from pprint import pprint
 
 print("Hola!")
+print('Hi')
