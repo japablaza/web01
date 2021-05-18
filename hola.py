@@ -10,3 +10,4 @@ print('Hi')
 saludo = "Hola, que tal?"
 
 print(saludo)
+print(saludo[0])
